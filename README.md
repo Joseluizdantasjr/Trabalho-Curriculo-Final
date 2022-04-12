@@ -106,7 +106,7 @@
         </li> 
         <li>
           <p>
-          <img class = "logomenor" src =                "https://iconape.com/wp-content/png_logo_vector/mariadb.png"
+          <img class = "logomenor" src = "https://iconape.com/wp-content/png_logo_vector/mariadb.png"
           MariaDB SGBD (iniciante)
           </p> 
         </li> 
