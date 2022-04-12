@@ -19,6 +19,12 @@ body {
       grid-column-gap: 0px;
       grid-row-gap: 0px;
     }
+    .divfora { 
+      grid-area: 1 / 1 / 2 / 2; 
+    }
+    .divfora2 { 
+      grid-area: 1 / 3 / 2 / 4; 
+    }    
     
     .div2 { 
       grid-area: 1 / 1 / 2 / 2;
