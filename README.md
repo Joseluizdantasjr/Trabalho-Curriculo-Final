@@ -3,19 +3,20 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
-  <title>replit</title>
   <link href="style.css" rel="stylesheet" type="text/css" />
   <link href="https://www.w3schools.com/w3css/4/w3.css" rel="stylesheet">
 </head>
 
 <body>
+  <div class = "divfora">
+  </div>
   <div id = "div1">
     <div class = "div2">
       <div class= "areafoto">
       <img id = "foto" src="imagens/foto.jpeg">
       </div>
       <div>  
-        <h1>José Luiz Dawntas Júnior</h1>
+        <h1>José Luiz Danteas Júnior</h1>
         <p>Estudante de Ciência da Computação</p>
         <p>Vila Velha, ES</p>
         <p>18 anos</p>
@@ -115,7 +116,9 @@
 
    
   </div>
- </div>    
+ </div>
+ <div class = "divfora">
+ </div>
   <script src="script.js"></script>
 </body>
 
