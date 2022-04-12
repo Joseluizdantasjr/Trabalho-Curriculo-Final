@@ -15,7 +15,7 @@
       <img id = "foto" src="imagens/foto.jpeg">
       </div>
       <div>  
-        <h1>José Luiz Dantas Júnior</h1>
+        <h1>José Luiz Dawntas Júnior</h1>
         <p>Estudante de Ciência da Computação</p>
         <p>Vila Velha, ES</p>
         <p>18 anos</p>
