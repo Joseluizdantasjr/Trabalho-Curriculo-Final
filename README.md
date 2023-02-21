@@ -5,3 +5,5 @@ O trabalho consiste em realizar uma página web com um currículo próprio.
 ## Linguagens:
 - HTML
 - CSS
+## Link:
+https://joseluizdantasjr.github.io/Trabalho-Curriculo-Final/
